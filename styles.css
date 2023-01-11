@@ -1,1 +1,40 @@
-/* your code */
+*{
+    margin: 0;
+}
+table{
+    width: 50%;
+    border-radius: 5px;
+    border-spacing: 0ch;
+    border-collapse: collapse;
+    border-radius: 5px;
+    border: 1px solid transparent;
+ 
+
+}   
+thead th{
+    background-color:#2666be;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+.first td{
+    background-color: lightgray;
+}
+.second td{
+    background-color: lightgray;
+}
+.first-right{
+    border-radius: 0 5px 0 0;
+}
+.first-left{
+    border-radius: 5px 0 0 0;
+}
+.last-left{
+    border-radius: 0 0 0 5px;
+}
+.last-right{
+    border-radius: 0 0 5px 0;
+}
+
+
+
